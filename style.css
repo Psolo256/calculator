@@ -1,0 +1,17 @@
+body {
+    background-color: cyan;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+margin-top: 68px;
+}
+
+#calculator{
+    width: 600px;
+    margin: 0 auto;
+
+}
+input
+
+button {
+    width: 100px
+    height: 80px
+}
